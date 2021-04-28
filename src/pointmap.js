@@ -1,5 +1,4 @@
-import "./styles.css";
-import * as d3 from "d3";
+import * as d3 from "/d3min";
 // https://www.d3-graph-gallery.com/graph/choropleth_basic.html
 
 /// map //
