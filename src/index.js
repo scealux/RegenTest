@@ -1,4 +1,4 @@
-import * as d3 from "./d3min.js";
+import * as d3 from "./d3.js";
 // https://www.d3-graph-gallery.com/graph/choropleth_basic.html
 
 //tool tip div
